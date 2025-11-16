@@ -1,1 +1,5 @@
-# Practica2-Auxiliatura-INF-121
+# Practica-2-Auxiliatura-INF-121
+
+PRISCILA GABRIELA NINA TITO
+CI: 13759938
+RU:1886139
